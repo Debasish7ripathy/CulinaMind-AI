@@ -9,7 +9,6 @@ ios/
 # Env files
 .env
 .env.local
-src/config/env.ts
 
 # OS files
 .DS_Store
